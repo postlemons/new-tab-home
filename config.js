@@ -11,10 +11,10 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Mohamed',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://gmail.com/',
 		},
 		{
 			id: '3',
@@ -79,13 +79,13 @@ const CONFIG = {
 			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://chat.google.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -98,33 +98,15 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'Discord',
+			icon: 'discord',
+			link: 'https://discord.com/app',
 		},
 		{
 			id: '3',
 			name: 'bot',
 			icon: 'bot',
 			link: 'https://discord.com/app',
-		},
-		{
-			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
-		},
-		{
-			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
-		},
-		{
-			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
 		},
 	],
 
